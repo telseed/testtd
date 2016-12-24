@@ -30,7 +30,7 @@ if msg.to.type == 'channel' and is_momod(msg) then
 🎗》#modhelp
 
 Join us:
-✔️  @antispamandhack ]]
+✔️  @blaster_tc ]]
 end
 end
 return {

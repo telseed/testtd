@@ -3,7 +3,7 @@ do
 function run(msg, matches)
 if msg.to.type == 'channel' and is_momod(msg) then
   return ''..[[
-̴D̴̴i̴̴a̴̴m̴̴o̴̴n̴̴d̴ ̴C̴̴o̴̴m̴̴m̴̴a̴̴n̴̴d̴̴s̴ :
+̴
  
 💢#bot off
 💢#bot on
@@ -27,10 +27,8 @@ if msg.to.type == 'channel' and is_momod(msg) then
 ☆دستورات فان
 🎗》#funhelp
 ☆دستورات مدیریتی 
-🎗》#modhelp
 
-Join us:
-✔️  @blaster_tc ]]
+      ]]
 end
 end
 return {
